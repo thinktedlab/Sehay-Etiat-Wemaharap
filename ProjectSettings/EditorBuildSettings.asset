@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_scenes/menu.unity
+    guid: 0c81de29d431b4243b0f0a8e5277badf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_scenes/TelaFeedback.unity
+    guid: 93d63c9cecaa4754f92468dd7e702b4d
+  - enabled: 1
+    path: Assets/_scenes/SelecaoModosDeJogo.unity
+    guid: fe45401a61a8e3e4b97cc1b556e3e45b
+  - enabled: 1
+    path: Assets/_scenes/LevelList_PalavrasCruzadas.unity
+    guid: 6e027cf13f146494381518d71e9d622c
+  - enabled: 1
+    path: Assets/_scenes/LevelList_MemoryGame.unity
+    guid: daae4c65b12dbed48886922fb27111a2
+  - enabled: 1
+    path: Assets/memoryGameScene/memoryGame1.unity
+    guid: 0b2666c057fdd1141a301bd6e31276bd
+  - enabled: 1
+    path: Assets/_scenes/LevelList_CacaPalavras.unity
+    guid: 5b3c29d71be47304bb39da24e4c31986
+  - enabled: 1
+    path: Assets/crossWordScenes/crossWord0.unity
+    guid: 27e1e3f6048334b5a9940eb8d8e7c24c
+  - enabled: 1
+    path: Assets/crossWordScenes/crossWord1.unity
+    guid: 55452c22b4cd54aa6827be69f718532f
+  - enabled: 1
+    path: Assets/crossWordScenes/crossWord2.unity
+    guid: 17d0f9f3b7adf40c09aaa1b4408d458e
+  - enabled: 1
+    path: Assets/memoryGameScene/memoryGame2.unity
+    guid: 552cb50538b0a764b881426433709ea9
+  - enabled: 1
+    path: Assets/memoryGameScene/memoryGame3.unity
+    guid: b7f4d05e648994546b7d113921b60328
+  - enabled: 1
+    path: Assets/_scenes/game_PalavrasCruzadas.unity
+    guid: 54e7a5a72b6a7c7498d51ae807603ed6
+  - enabled: 1
+    path: Assets/searchWordScenes/level_1.unity
+    guid: 3ebc616342be943d79d251213217880e
+  - enabled: 1
+    path: Assets/searchWordScenes/level_2.unity
+    guid: ba37204ea43b543ae89e0d3b24f10eb4
+  - enabled: 1
+    path: Assets/searchWordScenes/level_3.unity
+    guid: d2ee2417ac0244d7dad43fd95608918b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_scenes/game_CacaPalavras.unity
+    guid: 4a6b7dfc48b34f340b00515a330c2f3b
+  m_configObjects: {}
